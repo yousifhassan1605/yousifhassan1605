@@ -6,7 +6,6 @@
 
 ## 🌟 About Me
 - 🎓 **BSc Computer Engineering** – American University of Bahrain  
-- 🏆 **AUBH President’s Scholarship (20%) Recipient**  
 - 🤖 **World Robot Olympiad** competitor — represented Bahrain in India & Thailand  
 - 💻 Experience in **hackathons**, **WordPress development**, **robotics**, and **team-based engineering**  
 - 🌍 Languages: **Arabic**, **English**, **French**
@@ -37,31 +36,6 @@
 - 🎤 Communication  
 - 🏅 Leadership  
 - ⚙️ Problem-Solving  
-
----
-
-## 🚀 Experience
-
-### **🔹 H4TF Hackathon – AIESEC in Bahrain (2024)**
-- Developed an **e-sports website** for a government entity using WordPress  
-- Improved teamwork, innovation, and fast problem-solving  
-
-### **🔹 World Robot Olympiad (2016–2018)**
-- Won national competitions in Bahrain  
-- Represented Bahrain in **India** and **Thailand**  
-- Designed & programmed robotic solutions for complex tasks  
-
-### **🔹 AUBH Football Tournament (2024)**
-- Strengthened teamwork, discipline, and strategy  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yousifhassan1605&show_icons=true&theme=react" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousifhassan1605&layout=compact&theme=react" />
-</p>
 
 ---
 
